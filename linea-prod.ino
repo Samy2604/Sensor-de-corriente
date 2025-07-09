@@ -22,7 +22,7 @@ void loop() {
 
   delay(300);
 }
-[5:41 PM, 5/17/2025] Sam: // Pines de sensores simulados (potenciómetros)
+// Pines de sensores simulados (potenciómetros)
 int sensor1 = A0;
 int sensor2 = A1;
 
