@@ -1,4 +1,4 @@
-[4:57 PM, 5/17/2025] Sam: nt sensorPin = A0;     // Simula lectura del sensor
+int sensorPin = A0;     // Simula lectura del sensor
 int ledPin = 10;        // Alerta de consumo anómalo
 float threshold = 3.0;  // Umbral de voltaje simulado
 
